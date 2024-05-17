@@ -1,2 +1,2 @@
-# Data analysis on acadimic preformance project
+# Data analysis on academic preformance project
  
